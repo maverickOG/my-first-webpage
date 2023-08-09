@@ -1,0 +1,40 @@
+h1
+{
+color: #b3d0e6;
+background-color: black;
+font-size: xx-large;
+}
+
+h2, h3
+{
+    color: #b3d0e6;
+    background-color: black;
+    font-size: x-large;
+}
+
+p1, p2, p3
+{
+    font-size: larger;
+    color: grey;
+}
+
+u, i
+{  
+    color: blue;
+}
+
+ol
+{
+    background-color: rgba(128, 128, 128, 0.396);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Roboto+Serif:wght@200&display=swap');
+*{
+    font-family: 'Courier Prime', monospace;
+}
+
+img
+{
+    height: 200px;
+    width: 400px;
+}
